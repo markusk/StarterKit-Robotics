@@ -4,7 +4,7 @@ Shop: [StarterKit-Robotics](http://www.watterott.com/en/StarterKit-Roboter)
 
 Assembly Instructions: [German](https://raw.github.com/watterott/StarterKit-Robotics/master/docu/Robot_de.pdf)
 
-![StarterKit-Robotics](https://raw.github.com/watterott/StarterKit-Robotics/master/img/starterkit.jpg)
+[![StarterKit-Robotics](https://raw.github.com/watterott/StarterKit-Robotics/master/img/starterkit.jpg)](http://www.watterott.com/en/StarterKit-Roboter)
 
 
 ## Features
